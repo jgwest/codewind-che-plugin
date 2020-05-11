@@ -10,7 +10,7 @@ const (
 	PerformancePrefix = PFEPrefix + "-performance"
 
 	// PFEImage is the docker image that will be used in the Codewind-PFE pod
-	PFEImage = "eclipse/codewind-pfe-amd64"
+	PFEImage = "jgwest/codewind-pfe-amd64"
 
 	// PerformanceImage is the docker image that will be used in the Performance dashboard pod
 	PerformanceImage = "eclipse/codewind-performance-amd64"

@@ -23,7 +23,7 @@ components:
         value: "true"
   - alias: codewind-sidecar
     type: chePlugin
-    reference: https://raw.githubusercontent.com/eclipse/codewind-che-plugin/master/plugins/codewind/codewind-sidecar/latest/meta.yaml
+    reference: https://raw.githubusercontent.com/jgwest/codewind-che-plugin/master/plugins/codewind/codewind-sidecar/latest/meta.yaml
   - alias: codewind-theia
     type: chePlugin
     reference: https://raw.githubusercontent.com/eclipse/codewind-che-plugin/master/plugins/codewind/codewind-theia/latest/meta.yaml
